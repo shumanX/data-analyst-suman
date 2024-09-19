@@ -24,4 +24,6 @@ The process involves two main data centers:
 •	A bucket structure is defined under `BusinessLicense/Landing`.
  Data Ingestion Process
 Data from Vancouver (UCW Data Center) is sent to the AWS Data Center through a data ingestion process. The ingested data will be utilized in the analytics platform to run the analyses required for improving the business license fees, leveraging AWS infrastructure for cloud-based analytics.
+![Data Visualization](https://github.com/shumanX/data-analyst-suman/blob/main/Picture1.png)
+
 In summary, this descriptive analysis shows the flow from identifying the problem (fees paid), using various metrics and data sources to understand and predict trends, and then using infrastructure (cloud-based and local servers) to store, analyze, and ultimately improve fee structures and business operations in Vancouver's Business License Office.
