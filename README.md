@@ -22,6 +22,7 @@ The process involves two main data centers:
 •	This section includes a Data Analytics Platform designed for business licensing, where data from Vancouver is ingested for further analysis.
 •	Data is stored in Amazon S3, under a bucket for the business license office with a structured hierarchy:
 •	A bucket structure is defined under `BusinessLicense/Landing`.
+![Framework](https://github.com/shumanX/data-analyst-suman/blob/main/WhatsApp%20Image%202024-08-27%20at%2021.31.27.jpeg)
  Data Ingestion Process
 Data from Vancouver (UCW Data Center) is sent to the AWS Data Center through a data ingestion process. The ingested data will be utilized in the analytics platform to run the analyses required for improving the business license fees, leveraging AWS infrastructure for cloud-based analytics.
 ![Data Visualization](https://github.com/shumanX/data-analyst-suman/blob/main/Picture1.png)
